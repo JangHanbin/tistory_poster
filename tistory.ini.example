@@ -1,0 +1,6 @@
+[tistory]
+client_id = value
+secret_key = value
+access_token = value
+blog_name = value
+redirect_uri = 127.0.0.1/oauth

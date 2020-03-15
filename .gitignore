@@ -1,0 +1,6 @@
+*.log
+venv/
+*.ini
+chromedriver
+.DS_store
+
